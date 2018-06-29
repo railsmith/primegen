@@ -22,7 +22,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ primegen print -n 70
+
+If you do not pass any option it will print the multiplication table for first N primes.
+
+    $ primgen
+
+    $ primgen print
+
 
 ## Development
 
