@@ -24,7 +24,7 @@ Or install it yourself as:
 
     $ primegen print -n 70
 
-If you do not pass any option it will print the multiplication table for first N primes.
+If you do not pass any option like below it will print the multiplication table for first N primes.
 
     $ primgen
 
