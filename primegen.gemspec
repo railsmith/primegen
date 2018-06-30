@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["harshit.sk@hotmail.com"]
 
   spec.summary       = %q{ A rubygem to generate a multiplication table of first n primes.}
-  spec.description   = %q{ A command line utility which prints first n primes. }
+  spec.description   = %q{ A command line utility which prints multiplication table of first n primes. }
   spec.homepage      = ""
   spec.license       = "MIT"
 
