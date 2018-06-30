@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    primegen (0.1.0)
+    primegen (0.1.1)
       terminal-table (~> 1.8.0)
       thor (~> 0.20)
 
