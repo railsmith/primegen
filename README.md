@@ -1,6 +1,6 @@
 # Primegen
 
-# A command line utility to print multiplication table of first n primes
+## A command line utility to print multiplication table of first n primes
 
 ## Installation
 
