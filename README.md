@@ -1,8 +1,6 @@
 # Primegen
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/primegen`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+# A command line utility to print multiplication table of first n primes
 
 ## Installation
 
@@ -22,13 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-    $ primegen print -n 70
-
-If you do not pass any option like below it will print the multiplication table for first N primes.
-
-    $ primgen
-
-    $ primgen print
+    $ primegen help
 
 
 ## Development
